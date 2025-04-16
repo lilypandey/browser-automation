@@ -1,6 +1,6 @@
 # Browser Control API (No Automation Frameworks)
 
-A Flask-based API to control Chrome and Firefox — open URLs, clear cache/history, and close the browser — without using automation tools like Selenium or Puppeteer.
+A Flask-based API to control Chrome and Firefox. Open URLs, clear cache/history, and close the browser, without using automation tools like Selenium or Puppeteer.
 
 
 ## Features
